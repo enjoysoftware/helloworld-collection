@@ -8,3 +8,4 @@ A collection of Hello World in major languages.
 * Javascript
 * HTML (5)
 * Ruby
+* Pascal
