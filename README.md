@@ -7,3 +7,4 @@ A collection of Hello World in major languages.
 * C ++
 * Javascript
 * HTML (5)
+* Ruby
